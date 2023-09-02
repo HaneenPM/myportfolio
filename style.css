@@ -15,7 +15,7 @@ body{
 .header{
     width: 100%;
     height: 100vh;
-    background-image: url(https://github.com/HaneenPM/myportfolio/blob/main/IMG_7063.PNG);
+    background-image: url(IMG_7063.PNG);
     background-size: cover;
     background-position: center;
 }
